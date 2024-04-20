@@ -1,0 +1,12 @@
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\bin\Debug\net7.0\Core.CrosscuttingConcerns.deps.json
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\bin\Debug\net7.0\Core.CrosscuttingConcerns.dll
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\bin\Debug\net7.0\Core.CrosscuttingConcerns.pdb
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\Core.CrosscuttingConcerns.csproj.AssemblyReference.cache
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\Core.CrosscuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\Core.CrosscuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\Core.CrosscuttingConcerns.AssemblyInfo.cs
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\Core.CrosscuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\Core.CrosscuttingConcerns.dll
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\refint\Core.CrosscuttingConcerns.dll
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\Core.CrosscuttingConcerns.pdb
+C:\Users\serka\Desktop\NewRentACar\src\corePackages\CorePackages\Core.CrosscuttingConcerns\obj\Debug\net7.0\ref\Core.CrosscuttingConcerns.dll

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\corePackages",
+    "\\corePackages\\CorePackages",
+    "\\rentACar",
+    "\\rentACar\\RentACar",
+    "\\rentACar\\RentACar\\Application",
+    "\\rentACar\\RentACar\\Application\\Features",
+    "\\rentACar\\RentACar\\Application\\Features\\Brands",
+    "\\rentACar\\RentACar\\Application\\Features\\Brands\\Queries",
+    "\\rentACar\\RentACar\\Application\\Features\\Brands\\Queries\\GetList"
+  ],
+  "SelectedNode": "\\rentACar\\RentACar\\Application\\Features\\Brands\\Queries\\GetList\\GetListBrandQuery.cs",
+  "PreviewInSolutionExplorer": false
+}
